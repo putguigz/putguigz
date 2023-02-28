@@ -13,8 +13,8 @@ Here are few projects you can check on, that i made alone or in a group :
 
 #### 📫 reach me
 
-- site: www.guillaumepetit.dev
-- email: guillaumepetitdev@gmail.com
+- site: www.gpetit.fr
+- email: me@gpetit.fr
 - linkedin: www.linkedin.com/in/guillaume-petit-si
 
 #### 🧰 languages and tools
